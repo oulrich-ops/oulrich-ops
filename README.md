@@ -19,13 +19,13 @@
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" alt="AWS"/>
-<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker"/><br/>
+<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker"/>
 <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" alt="Linux"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/-Airflow-000?&logo=Apache-Airflow" alt="Apache Airflow"/>
-<img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" alt="TensorFlow"/><br/>
+<img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch" alt="PyTorch"/>
 </td>
 <td align="center">
