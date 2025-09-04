@@ -1,4 +1,4 @@
-## Hi there 👋
+[![](https://raw.githubusercontent.com//oulrich-ops//oulrich-ops/main/bannerGithub.gif)]
 
 <!--
 **oulrich-ops/oulrich-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
