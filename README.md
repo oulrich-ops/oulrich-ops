@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" alt="Linux"/>
 </td>
 <td align="center">
+<img src="https://img.shields.io/badge/-Spark-000?&logo=Apache-Spark&logoColor=E25A1C" alt="Apache Spark"/>
 <img src="https://img.shields.io/badge/-Airflow-000?&logo=Apache-Airflow" alt="Apache Airflow"/>
 <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch" alt="PyTorch"/>
