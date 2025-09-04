@@ -17,6 +17,7 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 ### Technologies & Tools
 
@@ -49,3 +50,17 @@
 </td>
 </tr>
 </table>
+
+<br />
+
+### Connect with me:
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/o-kiswendsida/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/o-kiswendsida/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![email](./img/gmail-light.svg)](mailto:ou.kiswendsida@gmail.com#gh-light-mode-only)
+[![email](./img/gmail-dark.svg)](mailto:ou.kiswendsida@gmail.com#gh-dark-mode-only)
+
+---
+
+**📧 Email :** ou.kiswendsida@gmail.com  
+**💼 LinkedIn :** https://www.linkedin.com/in/o-kiswendsida/
