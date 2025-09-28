@@ -23,12 +23,20 @@
 
 <table>
 <tr>
+  <td align="center"><strong>Backend & Frameworks</strong></td>
+<td align="center"><strong>Frontend</strong></td>
 <td align="center"><strong>Cloud & DevOps</strong></td>
 <td align="center"><strong>Data Engineering & AI</strong></td>
-<td align="center"><strong>Backend & Frameworks</strong></td>
-<td align="center"><strong>Frontend</strong></td>
+
 </tr>
 <tr>
+  <td align="center">
+<img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"/>
+<img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" alt="Spring"/>
+</td>
+  <td align="center">
+<img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>
+</td>
 <td align="center">
 <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" alt="AWS"/>
 <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker"/>
@@ -41,13 +49,8 @@
 <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch" alt="PyTorch"/>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"/>
-<img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" alt="Spring"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>
-</td>
+
+
 </tr>
 </table>
 
